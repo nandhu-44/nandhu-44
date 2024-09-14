@@ -15,7 +15,7 @@
 <a href="https://kaggle.com/nandhu44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nandhu44" height="30" width="40" /></a>
 <a href="https://instagram.com/_.n_44._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.n_44._" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nandhu44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandhu44" height="30" width="40" /></a>
-<a href="https://discord.gg/820502577783373884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="820502577783373884" height="30" width="40" /></a>
+<a href="https://discord.com/users/820502577783373884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="820502577783373884" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
