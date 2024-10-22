@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhu-44" alt="nandhu-44" /></a> </p>
 
-- 📫 How to reach me **nandhu@notime.co.in**
+- 📫 How to reach me **mail@nandhu.co**
 
 - 📄 Know about my experiences [https://nandhu.snapcv.me](https://nandhu.snapcv.me)
 
