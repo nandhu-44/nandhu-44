@@ -28,6 +28,30 @@
 - 🌐 More about my work and experience: **[nandhu-44.vercel.app](https://nandhu-44.vercel.app)**
 - 📫 How to reach me: **[nandhu-44.vercel.app/contact](https://nandhu-44.vercel.app/contact)**
 
+## 🚀 Featured Project
+
+<table>
+  <tr>
+    <td width="96" align="center">
+      <a href="https://github.com/nandhu-44/Git-Time-Machine"><img src="https://raw.githubusercontent.com/nandhu-44/Git-Time-Machine/main/src/public/logo.svg" width="80" alt="Git Time Machine logo" /></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/nandhu-44/Git-Time-Machine">Git Time Machine</a></b> &middot; <code>git-tm</code><br/>
+      Explore any Git repository's history in your browser: commit graph, diffs, blame and insights, and <b>time travel</b> between any two commits, forwards or backwards. One command, zero dependencies.<br/><br/>
+      <a href="https://www.npmjs.com/package/git-tm"><img src="https://img.shields.io/npm/v/git-tm?style=flat-square&color=f05133" alt="npm version" /></a>
+      <a href="https://www.npmjs.com/package/git-tm"><img src="https://img.shields.io/npm/dm/git-tm?style=flat-square&color=7aa2f7" alt="npm downloads" /></a>
+      <img src="https://img.shields.io/badge/dependencies-0-2ea44f?style=flat-square" alt="zero dependencies" />
+    </td>
+  </tr>
+</table>
+
+```bash
+npm install -g git-tm
+git tm   # run inside any repository
+```
+
+<a href="https://github.com/nandhu-44/Git-Time-Machine"><img src="https://raw.githubusercontent.com/nandhu-44/Git-Time-Machine/main/docs/screenshot.png" alt="Git Time Machine: commit graph and a merge commit's changes" width="100%" /></a>
+
 ## 🛠️ Tech Stack
 
 **AI / ML**
