@@ -36,7 +36,7 @@
       <a href="https://github.com/nandhu-44/Git-Time-Machine"><img src="https://raw.githubusercontent.com/nandhu-44/Git-Time-Machine/main/src/public/logo.svg" width="80" alt="Git Time Machine logo" /></a>
     </td>
     <td>
-      <b><a href="https://github.com/nandhu-44/Git-Time-Machine">Git Time Machine</a></b> &middot; <code>git-tm</code><br/>
+      <b><a href="https://git-time-machine.js.org">Git Time Machine</a></b> &middot; <code>git-tm</code><br/>
       Explore any Git repository's history in your browser: commit graph, diffs, blame and insights, and <b>time travel</b> between any two commits, forwards or backwards. One command, zero dependencies.<br/><br/>
       <a href="https://www.npmjs.com/package/git-tm"><img src="https://img.shields.io/npm/v/git-tm?style=flat-square&color=f05133" alt="npm version" /></a>
       <a href="https://www.npmjs.com/package/git-tm"><img src="https://img.shields.io/npm/dm/git-tm?style=flat-square&color=7aa2f7" alt="npm downloads" /></a>
