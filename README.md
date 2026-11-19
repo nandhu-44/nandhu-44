@@ -56,32 +56,39 @@ git tm   # run inside any repository
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
+**AI / ML & LLMs**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="AI/ML" /><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML" />
+  </picture><br/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Vertex_AI_%26_Gemini-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI and Gemini" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
 </p>
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,html,css&theme=dark" alt="Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,ts,js,java&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cpp,ts,js,java&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,java&theme=dark" alt="Languages" />
+  </picture><br/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-**Web & Backend**
+**Web, Data & Infra**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,flask,django,electron&theme=dark" alt="Web and backend" />
-</p>
-
-**Databases, Cloud & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,appwrite,gcp,aws,docker,git,linux,postman,figma&theme=dark" alt="Databases, cloud and tools" /><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,mongodb,docker,git&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,mongodb,docker,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,mongodb,docker,git&theme=dark" alt="Web, data and infra" />
+  </picture><br/>
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
