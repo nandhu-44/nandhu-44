@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://nandhu-44.vercel.app">
+  <a href="https://nandhu-44.is-a.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+LLM+systems+%26+RAG+pipelines;Computer+vision+%26+deep+learning;Accessible+AI+for+everyone;Full-stack+when+the+model+needs+a+home" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://nandhu-44.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://nandhu-44.vercel.app/contact"><img src="https://img.shields.io/badge/Contact_Me-7aa2f7?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
+  <a href="https://nandhu-44.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://nandhu-44.is-a.dev/contact"><img src="https://img.shields.io/badge/Contact_Me-7aa2f7?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
   <a href="https://www.linkedin.com/in/nandhukrishnana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOTQ1IDEuNjM3LTEuOTQxIDMuMzctMS45NDEgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="https://kaggle.com/nandhu44"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://www.geeksforgeeks.org/profile/nandhu44"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
@@ -25,8 +25,8 @@
 
 - 🤖 Applied AI / ML engineer working on **LLM systems, computer vision and accessible AI**
 - 🎓 Computer Science student at **CUSAT**
-- 🌐 More about my work and experience: **[nandhu-44.vercel.app](https://nandhu-44.vercel.app)**
-- 📫 How to reach me: **[nandhu-44.vercel.app/contact](https://nandhu-44.vercel.app/contact)**
+- 🌐 More about my work and experience: **[nandhu-44.is-a.dev](https://nandhu-44.is-a.dev)**
+- 📫 How to reach me: **[nandhu-44.is-a.dev/contact](https://nandhu-44.is-a.dev/contact)**
 
 ## 🚀 Featured Project
 
