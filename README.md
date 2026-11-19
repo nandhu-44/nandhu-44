@@ -23,10 +23,12 @@
 
 ## 👨‍💻 About Me
 
-- 🤖 Applied AI / ML engineer working on **LLM systems, computer vision and accessible AI**
-- 🎓 Computer Science student at **CUSAT**
-- 🌐 More about my work and experience: **[nandhu-44.is-a.dev](https://nandhu-44.is-a.dev)**
-- 📫 How to reach me: **[nandhu-44.is-a.dev/contact](https://nandhu-44.is-a.dev/contact)**
+- 🤖 **Applied AI / ML Engineer** building LLM safety & RAG systems, computer vision models, and accessible AI
+- 💼 Intern at **Bosch Global Software Technologies (Coimbatore)** · Previously AI Engineer Intern at **Laennec AI (Zorgm.ai, 100+ countries)** and Research Intern at **IIT Kharagpur (CRTDH)** & **IIST** (Top 5 at **NCVPRIPG'24** with [AutoEval](https://github.com/nandhu-44/AutoEval))
+- 🎓 Integrated M.Sc. in Computer Science (AI & Data Science) at **CUSAT** (**9.31 CGPA**) · **GATE 2026 (DA)** Qualified
+- 🌱 Host of **AI Wednesday** at Tinkerspace and hackathon mentor/organizer with **TinkerHub** (Tink-her-hack 3.0 & 4.0)
+- 🌐 Portfolio & full project write-ups: **[nandhu-44.is-a.dev](https://nandhu-44.is-a.dev)**
+- 📫 Reach out: **[nandhu-44.is-a.dev/contact](https://nandhu-44.is-a.dev/contact)**
 
 ## 🚀 Featured Project
 
