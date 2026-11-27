@@ -114,7 +114,8 @@ git tm   # run inside any repository
 ## ☕ Support
 
 <p>
-  <a href="https://ko-fi.com/nandhu44"><img src="https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+  <a href="https://github.com/sponsors/nandhu-44"><img src="https://img.shields.io/badge/GitHub_Sponsors-Sponsor_me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  <a href="https://buymeachai.in/nandhu"><img src="https://img.shields.io/badge/Buy_Me_a_Chai-Support_me-F7931E?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Chai" /></a>
 </p>
 
 <p align="center">
